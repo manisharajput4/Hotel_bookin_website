@@ -8,22 +8,32 @@ of rooms with pictures.
 
 
 **OBJECTIVES**
+
 The main objective of the entire activity is to create a website for hotel booking.
 
 • Display different rooms available
+
 • Book hotel room
+
 • Provide information on hotel services
 
 
 **Platform**
+
 • Web browser
+
 
 **Programming Language/Tools**
 • HTML
+
 • CSS
+
 • JavaScript
 
 ** Features**
+**Features**
 • Very simple to use
+
 • Responsive design
+
 • Online Hotel Reservation
