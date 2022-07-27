@@ -23,12 +23,15 @@ The main objective of the entire activity is to create a website for hotel booki
 • Web browser
 
 
+
 **Programming Language/Tools**
+
 • HTML
 
 • CSS
 
 • JavaScript
+
 
 
 **Features**
