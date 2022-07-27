@@ -7,6 +7,7 @@ It focuses on giving the costumer all the information about the hotel and its se
 of rooms with pictures.
 
 
+
 **OBJECTIVES**
 
 The main objective of the entire activity is to create a website for hotel booking.
@@ -18,9 +19,11 @@ The main objective of the entire activity is to create a website for hotel booki
 • Provide information on hotel services
 
 
+
 **Platform**
 
 • Web browser
+
 
 
 
@@ -34,7 +37,9 @@ The main objective of the entire activity is to create a website for hotel booki
 
 
 
+
 **Features**
+
 • Very simple to use
 
 • Responsive design
