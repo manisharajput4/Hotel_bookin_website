@@ -30,7 +30,7 @@ The main objective of the entire activity is to create a website for hotel booki
 
 • JavaScript
 
-** Features**
+
 **Features**
 • Very simple to use
 
