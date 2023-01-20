@@ -19,8 +19,3 @@ window.addEventListener('click', function(event){
         modal.classList.remove('showModal');
     }
 });
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privac
