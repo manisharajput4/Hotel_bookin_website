@@ -52,7 +52,6 @@ img{
     }
 }
 
-/* header */
 .header{
     background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.2)), url("https://images.pexels.com/photos/70441/pexels-photo-70441.jpeg?auto=compress&cs=tinysrgb&w=600.jpeg") center/cover no-repeat;
     min-height: 100vh;
@@ -120,7 +119,6 @@ img{
     }
 }
 
-/* side nav */
 .sidenav{
     background: var(--dark);
     color: #fff;
@@ -134,7 +132,6 @@ img{
     z-index: 10;
 }
 
-/********/
 .sidenav.show{
     right: 0;
 }
@@ -178,7 +175,6 @@ img{
     }
 }
 
-/** title */
 .title{
     text-transform: uppercase;
     letter-spacing: 3px;
@@ -194,7 +190,6 @@ img{
     margin: 0 auto!important;
 }
 
-/* service */
 .services{
     margin: 40px 0;
 }
@@ -224,12 +219,6 @@ img{
 
 
 
-
-
-
-
-
-
 @media(min-width: 992px){
     .services-container{
         display: grid;
@@ -246,7 +235,6 @@ img{
     }
 }
 
-/* booking form */
 .book{
     background: linear-gradient(rgba(0, 0, 0, 0.85), rgba(0, 0, 0, 0.85)), url("images/banner-img.jpg") center/cover no-repeat;
     color: #fff;
@@ -287,11 +275,6 @@ img{
 }
 
 
-
-
-
-
-
 @media(min-width: 768px){
     .book-form{
         grid-template-columns: repeat(2, 1fr);
@@ -319,7 +302,6 @@ img{
     }
 }
 
-/* room */
 
 .rooms{
     margin: 40px 0;
@@ -397,7 +379,6 @@ img{
     }
 }
 
-/* customers */
 
 .customers{
     margin-top: 40px;
@@ -462,7 +443,7 @@ img{
     }
 }
 
-/* footer */
+
 .footer{
     background: var(--dark);
     color: #fff;
