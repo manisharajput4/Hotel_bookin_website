@@ -135,7 +135,7 @@ img{
 .sidenav.show{
     right: 0;
 }
-/*************/
+
 .cancel-btn{
     position: absolute;
     right: 25px;
@@ -215,9 +215,6 @@ img{
     background: var(--yellow);
     color: #fff;
 }
-
-
-
 
 @media(min-width: 992px){
     .services-container{
